@@ -1,0 +1,12 @@
+# robots.txt – Avani Children Hospital
+# Allow all search engine crawlers
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://brijpatel-2003.github.io/hospital-demo/sitemap.xml
+
+# Block unnecessary files from being indexed
+Disallow: /node_modules/
+Disallow: /.git/
